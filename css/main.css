@@ -97,9 +97,18 @@ textarea {
    Author's custom styles
    ========================================================================== */
 
+body {
+    margin: 0;
+    padding: 0;
+    color: white;
+    background: rgba(44,62,80 ,1);
+}
 
+main {
+    text-align: center;
+}
 
-
+img.ri {}
 
 
 
